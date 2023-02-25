@@ -10,18 +10,12 @@ require (
 	github.com/asaskevich/govalidator v0.0.0-20190424111038-f61b66f89f4a
 	github.com/brianvoe/gofakeit v3.18.0+incompatible
 	github.com/go-ole/go-ole v1.2.4 // indirect
-	github.com/go-openapi/errors v0.19.2
-	github.com/go-openapi/loads v0.19.3
 	github.com/go-openapi/runtime v0.19.6
-	github.com/go-openapi/spec v0.19.3
 	github.com/go-openapi/strfmt v0.19.3
 	github.com/go-openapi/swag v0.19.5
-	github.com/go-openapi/validate v0.19.3
 	github.com/go-pg/migrations/v7 v7.1.6
-	github.com/go-pg/pg v8.0.6+incompatible // indirect
 	github.com/go-pg/pg/v9 v9.1.0
 	github.com/golang/mock v1.3.1
-	github.com/golang/protobuf v1.3.2
 	github.com/jessevdk/go-flags v1.4.0
 	github.com/lib/pq v1.2.0
 	github.com/mitchellh/mapstructure v1.1.2
@@ -31,8 +25,8 @@ require (
 	github.com/shirou/w32 v0.0.0-20160930032740-bb4de0191aa4 // indirect
 	github.com/sirupsen/logrus v1.4.2
 	github.com/stretchr/testify v1.4.0
-	golang.org/x/crypto v0.0.0-20191206172530-e9b2fee46413
-	golang.org/x/net v0.0.0-20190923162816-aa69164e4478
+	golang.org/x/crypto v0.1.0
+	golang.org/x/net v0.1.0
 	google.golang.org/grpc v1.27.0
 	gopkg.in/h2non/gock.v1 v1.0.15
 )
